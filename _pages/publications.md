@@ -6,9 +6,18 @@ description: publications by categories in reversed chronological order. generat
 nav: true
 nav_order: 1
 ---
+
 <!-- _pages/publications.md -->
 <div class="publications">
 
 {% bibliography -f {{ site.scholar.bibliography }} %}
+
+{% for entry in site.data.publications %}
+{% if entry.url %}
+<div class="publication-url">
+  URL: <a href="{{ entry.url }}">{{ entry.url }}</a>
+</div>
+{% endif %}
+{% endfor %}
 
 </div>
