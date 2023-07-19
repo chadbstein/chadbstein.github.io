@@ -8,10 +8,6 @@ profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
-  address: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
 
 news: false  # includes a list of news items
 latest_posts: false  # includes a list of the newest posts
@@ -19,10 +15,8 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I recently received my PhD from Harvard University from the Program in Biological and Biomedical Sciences. I performed my dissertation research in [Karen Adelman's](https://adelman.hms.harvard.edu/) lab in the [Department of Biological Chemistry and Molecular Pharmacology](https://bcmp.hms.harvard.edu/) at Harvard Medical School.
+I recently received my PhD from Harvard University (April 2023). I performed my dissertation research in [Karen Adelman's](https://adelman.hms.harvard.edu/) lab in the [Department of Biological Chemistry and Molecular Pharmacology](https://bcmp.hms.harvard.edu/) at Harvard Medical School. I studied how the Integrator complex induces premature transcription termination. I used a variety of technique, including CRISPR genome editing, nascent transcriptomics, and stem cell models. My work was partly funded by an [NIH Ruth L. Kirschstein Predoctoral Individual National Research Service Award (F31)](https://reporter.nih.gov/search/x4q8OW-il0-dIloxPd4xyg/project-details/10536610).
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+During my graduate studies, I received a [Teaching Certificate from the Bok Center for Teaching and Learning](https://bokcenter.harvard.edu/teaching-certificate). I also received a Certificate of Distinction in Teaching from the Bok Center, and completed the [Undergraduate Mentoring Workshop Series](https://careernavigator.gradeducation.hms.harvard.edu/fas-science-education-mentoring-undergraduates-certificate-series) from the Faculty of Arts and Sciences. I served as a producer for [Sit'N Listen](https://sitn.hms.harvard.edu/category/podcast/), the podcast of Harvard's science communication group [Science in the News](sitn.hms.harvard.edu).
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
-
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+In August 2023, I will begin a postdoctoral position in [Britt Glaunsinger's](https://glaunsingerlab.berkeley.edu/) lab at UC Berkeley. Here, I will study how gamma herpesviruses co-opt the host transcription machinery to express their own genes. I am excited to expand my conceptual and experimental toolbox, in addition to gaining experience in teachng and mentorship.
